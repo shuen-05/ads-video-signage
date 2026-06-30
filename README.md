@@ -15,17 +15,7 @@ To run and use this project, you need:
 
 ## 2. How to Run
 
-You can run this application either as a compiled standalone executable (recommended for end-users) or directly from the source code (recommended for developers).
-
-### Method A: Run from the Pre-Compiled Release (Recommended for Users)
-If you downloaded the application as a compiled release package:
-1. **Download & Extract**: Download the release `.zip` file from the **GitHub Releases** section of this repository and extract its contents to a folder on your computer.
-2. **Launch the Server**: Double-click `ManagementUI.exe`.
-3. **Access the Web Interfaces**: Once running, the server is live and you can access the dashboard and screens using the URLs described below.
-
----
-
-### Method B: Run from Source Code (For Developers)
+### Run from Source Code (For Developers)
 If you cloned the source code from this repository and have the **.NET 10 SDK** installed:
 1. **Open a Terminal**: Open a command prompt or terminal in the project directory:
    ```bash
