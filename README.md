@@ -19,7 +19,7 @@ To run and use this project, you need:
 If you cloned the source code from this repository and have the **.NET 10 SDK** installed:
 1. **Open a Terminal**: Open a command prompt or terminal in the project directory:
    ```bash
-   cd Ads_Management
+   cd ads-video-signage
    ```
 2. **Run the Application**:
    ```bash
