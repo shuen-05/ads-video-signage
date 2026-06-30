@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Ad Video Management Dashboard - Manage users and assign ad videos">
+  <title>Ad Manager — Host Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+  <div class="app">
+    <!-- Header -->
+    <header class="header">
+      <div class="header-left">
+        <div class="logo">
+          <div class="logo-icon">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <polygon points="23 7 16 12 23 17 23 7"></polygon>
+              <rect x="1" y="5" width="15" height="14" rx="2" ry="2"></rect>
+            </svg>
+          </div>
+          <h1>Ad Manager</h1>
+        </div>
+        <span class="badge badge-host">HOST</span>
+      </div>
+      <div class="header-right">
+        <div class="network-info" id="networkInfo">
+          <span class="network-label">User URL:</span>
+          <code class="network-url" id="networkUrl">Loading...</code>
+          <button class="btn-copy" id="copyUrlBtn" title="Copy URL">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+              <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+      <!-- Groups Section -->
+      <section class="section">
+        <div class="section-header">
+          <h2>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+              <circle cx="9" cy="7" r="4"></circle>
+              <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+              <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+            </svg>
+            Groups
+          </h2>
+          <span class="user-count" id="userCount">3 groups · 0 users</span>
+          <button class="btn btn-primary" id="addGroupBtn" style="margin-left: auto;">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+            Add Group
+          </button>
+        </div>
+        <div class="groups-grid" id="groupsGrid">
+          <!-- Group cards rendered by JS -->
+        </div>
+      </section>
+
+      <!-- Connected Devices Section -->
+      <section class="section" id="connectionsSection" style="display: none;">
+        <div class="section-header">
+          <h2>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="2" y="6" width="20" height="12" rx="2"></rect>
+              <line x1="6" y1="10" x2="6" y2="14"></line>
+              <line x1="10" y1="10" x2="10" y2="14"></line>
+              <line x1="14" y1="10" x2="14" y2="14"></line>
+            </svg>
+            Connected Devices
+          </h2>
+          <span class="user-count" id="connectionCount">0 devices</span>
+        </div>
+        <p style="font-size: 0.8rem; color: rgba(240,240,248,0.5); margin-bottom: 16px;">
+          Devices that recently opened the server URL. Click "Assign" to register an IP to a user.
+        </p>
+        <div class="connections-list" id="connectionsList">
+        </div>
+      </section>
+
+      <!-- Video Pool Section -->
+      <section class="section">
+        <div class="section-header">
+          <h2>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="2" y="2" width="20" height="20" rx="2.18" ry="2.18"></rect>
+              <line x1="7" y1="2" x2="7" y2="22"></line>
+              <line x1="17" y1="2" x2="17" y2="22"></line>
+              <line x1="2" y1="12" x2="22" y2="12"></line>
+              <line x1="2" y1="7" x2="7" y2="7"></line>
+              <line x1="2" y1="17" x2="7" y2="17"></line>
+              <line x1="17" y1="7" x2="22" y2="7"></line>
+              <line x1="17" y1="17" x2="22" y2="17"></line>
+            </svg>
+            Video Pool
+          </h2>
+          <button class="btn btn-primary" id="uploadVideoBtn">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+              <polyline points="17 8 12 3 7 8"></polyline>
+              <line x1="12" y1="3" x2="12" y2="15"></line>
+            </svg>
+            Upload Video
+          </button>
+          <input type="file" id="videoFileInput" accept="video/*" style="display: none;">
+        </div>
+        <div class="video-pool" id="videoPool">
+          <div class="empty-state" id="emptyVideoState">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="opacity: 0.3;">
+              <polygon points="23 7 16 12 23 17 23 7"></polygon>
+              <rect x="1" y="5" width="15" height="14" rx="2" ry="2"></rect>
+            </svg>
+            <p>No videos uploaded yet</p>
+            <span>Click "Upload Video" to get started</span>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Upload Progress Overlay -->
+    <div class="overlay" id="uploadOverlay" style="display: none;">
+      <div class="upload-modal glass-card">
+        <div class="upload-spinner"></div>
+        <p>Uploading video...</p>
+        <div class="progress-bar">
+          <div class="progress-fill" id="uploadProgress"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Toast Container -->
+    <div class="toast-container" id="toastContainer"></div>
+  </div>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>

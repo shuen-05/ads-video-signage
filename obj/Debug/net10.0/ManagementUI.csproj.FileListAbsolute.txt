@@ -1,0 +1,279 @@
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\ManagementUI.csproj.AssemblyReference.cache
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\ManagementUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\ManagementUI.AssemblyInfoInputs.cache
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\ManagementUI.AssemblyInfo.cs
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\ManagementUI.csproj.CoreCompileInputs.cache
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\bin\Debug\net10.0\appsettings.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\bin\Debug\net10.0\ManagementUI.staticwebassets.runtime.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\bin\Debug\net10.0\ManagementUI.staticwebassets.endpoints.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\bin\Debug\net10.0\ManagementUI.exe
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\bin\Debug\net10.0\ManagementUI.deps.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\bin\Debug\net10.0\ManagementUI.runtimeconfig.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\bin\Debug\net10.0\ManagementUI.dll
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\bin\Debug\net10.0\ManagementUI.pdb
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\scopedcss\bundle\ManagementUI.styles.css
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\compressed\diy6587sbg-{0}-8pfymb9zgn-8pfymb9zgn.gz
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\compressed\4arz3iapx4-{0}-iz94l75ciz-iz94l75ciz.gz
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\Manageme.4521C52F.Up2Date
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\ManagementUI.dll
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\refint\ManagementUI.dll
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\ManagementUI.pdb
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\ManagementUI.genruntimeconfig.cache
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\ref\ManagementUI.dll
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\bin\Debug\net10.0\data\db.json
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\compressed\56va2e1mo4-{0}-mgjpi3zhwo-mgjpi3zhwo.gz
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\compressed\mp1pdf84bz-{0}-a62161cxai-a62161cxai.gz
+C:\Users\Ai Shan\Downloads\AMR_carol\Management UI\obj\Debug\net10.0\compressed\flqges9yav-{0}-zdmav0u12z-zdmav0u12z.gz
+C:\Users\Shuen\Desktop\Management UI\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Shuen\Desktop\Management UI\bin\Debug\net10.0\appsettings.json
+C:\Users\Shuen\Desktop\Management UI\bin\Debug\net10.0\data\db.json
+C:\Users\Shuen\Desktop\Management UI\bin\Debug\net10.0\ManagementUI.staticwebassets.runtime.json
+C:\Users\Shuen\Desktop\Management UI\bin\Debug\net10.0\ManagementUI.staticwebassets.endpoints.json
+C:\Users\Shuen\Desktop\Management UI\bin\Debug\net10.0\ManagementUI.exe
+C:\Users\Shuen\Desktop\Management UI\bin\Debug\net10.0\ManagementUI.deps.json
+C:\Users\Shuen\Desktop\Management UI\bin\Debug\net10.0\ManagementUI.runtimeconfig.json
+C:\Users\Shuen\Desktop\Management UI\bin\Debug\net10.0\ManagementUI.dll
+C:\Users\Shuen\Desktop\Management UI\bin\Debug\net10.0\ManagementUI.pdb
+C:\Users\Shuen\Desktop\Management UI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Shuen\Desktop\Management UI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\ManagementUI.csproj.AssemblyReference.cache
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\ManagementUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\ManagementUI.AssemblyInfoInputs.cache
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\ManagementUI.AssemblyInfo.cs
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\ManagementUI.csproj.CoreCompileInputs.cache
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\scopedcss\bundle\ManagementUI.styles.css
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\compressed\56va2e1mo4-{0}-mgjpi3zhwo-mgjpi3zhwo.gz
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\compressed\mp1pdf84bz-{0}-a62161cxai-a62161cxai.gz
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\compressed\flqges9yav-{0}-zdmav0u12z-zdmav0u12z.gz
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\compressed\diy6587sbg-{0}-8pfymb9zgn-8pfymb9zgn.gz
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\compressed\4arz3iapx4-{0}-iz94l75ciz-iz94l75ciz.gz
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\Manageme.4521C52F.Up2Date
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\ManagementUI.dll
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\refint\ManagementUI.dll
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\ManagementUI.pdb
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\ManagementUI.genruntimeconfig.cache
+C:\Users\Shuen\Desktop\Management UI\obj\Debug\net10.0\ref\ManagementUI.dll
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\bin\Debug\net10.0\appsettings.json
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.staticwebassets.runtime.json
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.staticwebassets.endpoints.json
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.exe
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.deps.json
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.runtimeconfig.json
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.dll
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.pdb
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.csproj.AssemblyReference.cache
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.AssemblyInfoInputs.cache
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.AssemblyInfo.cs
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.csproj.CoreCompileInputs.cache
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\scopedcss\bundle\ManagementUI.styles.css
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\compressed\56va2e1mo4-{0}-sdzqkhrib1-sdzqkhrib1.gz
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\compressed\mp1pdf84bz-{0}-zfi3ia6cq6-zfi3ia6cq6.gz
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\compressed\flqges9yav-{0}-en4gip8kj5-en4gip8kj5.gz
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\compressed\diy6587sbg-{0}-8pfymb9zgn-8pfymb9zgn.gz
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\Manageme.4521C52F.Up2Date
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.dll
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\refint\ManagementUI.dll
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.pdb
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.genruntimeconfig.cache
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\ref\ManagementUI.dll
+C:\Users\Ai Shan\Downloads\Management_UI\Management_UI\obj\Debug\net10.0\compressed\4arz3iapx4-{0}-lyfuhaj0fq-lyfuhaj0fq.gz
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\bin\Debug\net10.0\appsettings.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\bin\Debug\net10.0\data\db.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.staticwebassets.runtime.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.staticwebassets.endpoints.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.exe
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.deps.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.runtimeconfig.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.dll
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\bin\Debug\net10.0\ManagementUI.pdb
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.csproj.AssemblyReference.cache
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.AssemblyInfoInputs.cache
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.AssemblyInfo.cs
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.csproj.CoreCompileInputs.cache
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\scopedcss\bundle\ManagementUI.styles.css
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\compressed\4arz3iapx4-{0}-fxuocaah1c-fxuocaah1c.gz
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\Manageme.4521C52F.Up2Date
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.dll
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\refint\ManagementUI.dll
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.pdb
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\ManagementUI.genruntimeconfig.cache
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\ref\ManagementUI.dll
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\compressed\mp1pdf84bz-{0}-nul27w35aa-nul27w35aa.gz
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\compressed\56va2e1mo4-{0}-3i5saomj6w-3i5saomj6w.gz
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\compressed\flqges9yav-{0}-kqrsm773o1-kqrsm773o1.gz
+C:\Users\Shuen\Desktop\Management_UI\Management_UI\obj\Debug\net10.0\compressed\diy6587sbg-{0}-hioophs65q-hioophs65q.gz
+C:\Users\User\Desktop\Management_UI\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\User\Desktop\Management_UI\bin\Debug\net10.0\appsettings.json
+C:\Users\User\Desktop\Management_UI\bin\Debug\net10.0\data\db.json
+C:\Users\User\Desktop\Management_UI\bin\Debug\net10.0\ManagementUI.staticwebassets.runtime.json
+C:\Users\User\Desktop\Management_UI\bin\Debug\net10.0\ManagementUI.staticwebassets.endpoints.json
+C:\Users\User\Desktop\Management_UI\bin\Debug\net10.0\ManagementUI.exe
+C:\Users\User\Desktop\Management_UI\bin\Debug\net10.0\ManagementUI.deps.json
+C:\Users\User\Desktop\Management_UI\bin\Debug\net10.0\ManagementUI.runtimeconfig.json
+C:\Users\User\Desktop\Management_UI\bin\Debug\net10.0\ManagementUI.dll
+C:\Users\User\Desktop\Management_UI\bin\Debug\net10.0\ManagementUI.pdb
+C:\Users\User\Desktop\Management_UI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\Management_UI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\ManagementUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\ManagementUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\ManagementUI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\ManagementUI.AssemblyInfo.cs
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\ManagementUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\scopedcss\bundle\ManagementUI.styles.css
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\compressed\56va2e1mo4-{0}-3i5saomj6w-3i5saomj6w.gz
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\compressed\mp1pdf84bz-{0}-nul27w35aa-nul27w35aa.gz
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\compressed\flqges9yav-{0}-kqrsm773o1-kqrsm773o1.gz
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\compressed\diy6587sbg-{0}-hioophs65q-hioophs65q.gz
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\Manageme.4521C52F.Up2Date
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\ManagementUI.dll
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\refint\ManagementUI.dll
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\ManagementUI.pdb
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\ManagementUI.genruntimeconfig.cache
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\ref\ManagementUI.dll
+C:\Users\User\Desktop\Management_UI\obj\Debug\net10.0\compressed\4arz3iapx4-{0}-4j6f69pthu-4j6f69pthu.gz
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\bin\Debug\net10.0\appsettings.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\bin\Debug\net10.0\data\db.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\bin\Debug\net10.0\ManagementUI.exe
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\bin\Debug\net10.0\ManagementUI.staticwebassets.runtime.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\bin\Debug\net10.0\ManagementUI.staticwebassets.endpoints.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\bin\Debug\net10.0\ManagementUI.deps.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\bin\Debug\net10.0\ManagementUI.runtimeconfig.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\bin\Debug\net10.0\ManagementUI.dll
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\bin\Debug\net10.0\ManagementUI.pdb
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\ManagementUI.csproj.AssemblyReference.cache
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\ManagementUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\ManagementUI.AssemblyInfoInputs.cache
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\ManagementUI.AssemblyInfo.cs
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\ManagementUI.csproj.CoreCompileInputs.cache
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\scopedcss\bundle\ManagementUI.styles.css
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\compressed\56va2e1mo4-{0}-3i5saomj6w-3i5saomj6w.gz
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\compressed\mp1pdf84bz-{0}-nul27w35aa-nul27w35aa.gz
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\compressed\flqges9yav-{0}-kqrsm773o1-kqrsm773o1.gz
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\compressed\diy6587sbg-{0}-hioophs65q-hioophs65q.gz
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\compressed\4arz3iapx4-{0}-4j6f69pthu-4j6f69pthu.gz
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\Manageme.4521C52F.Up2Date
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\ManagementUI.dll
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\refint\ManagementUI.dll
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\ManagementUI.pdb
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\ManagementUI.genruntimeconfig.cache
+C:\Users\Shuen\Desktop\Ads_Management\Ads_Management\obj\Debug\net10.0\ref\ManagementUI.dll
+C:\Users\User\Desktop\Ads_Management\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\User\Desktop\Ads_Management\bin\Debug\net10.0\appsettings.json
+C:\Users\User\Desktop\Ads_Management\bin\Debug\net10.0\data\db.json
+C:\Users\User\Desktop\Ads_Management\bin\Debug\net10.0\ManagementUI.staticwebassets.runtime.json
+C:\Users\User\Desktop\Ads_Management\bin\Debug\net10.0\ManagementUI.staticwebassets.endpoints.json
+C:\Users\User\Desktop\Ads_Management\bin\Debug\net10.0\ManagementUI.exe
+C:\Users\User\Desktop\Ads_Management\bin\Debug\net10.0\ManagementUI.deps.json
+C:\Users\User\Desktop\Ads_Management\bin\Debug\net10.0\ManagementUI.runtimeconfig.json
+C:\Users\User\Desktop\Ads_Management\bin\Debug\net10.0\ManagementUI.dll
+C:\Users\User\Desktop\Ads_Management\bin\Debug\net10.0\ManagementUI.pdb
+C:\Users\User\Desktop\Ads_Management\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\Ads_Management\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\ManagementUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\ManagementUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\ManagementUI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\ManagementUI.AssemblyInfo.cs
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\ManagementUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\ManagementUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\scopedcss\bundle\ManagementUI.styles.css
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\compressed\56va2e1mo4-{0}-3i5saomj6w-3i5saomj6w.gz
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\compressed\mp1pdf84bz-{0}-nul27w35aa-nul27w35aa.gz
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\compressed\flqges9yav-{0}-kqrsm773o1-kqrsm773o1.gz
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\compressed\diy6587sbg-{0}-hioophs65q-hioophs65q.gz
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\compressed\4arz3iapx4-{0}-4j6f69pthu-4j6f69pthu.gz
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\Manageme.4521C52F.Up2Date
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\ManagementUI.dll
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\refint\ManagementUI.dll
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\ManagementUI.pdb
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\ManagementUI.genruntimeconfig.cache
+C:\Users\User\Desktop\Ads_Management\obj\Debug\net10.0\ref\ManagementUI.dll

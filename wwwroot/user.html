@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Your assigned ad video">
+  <title>Ad Manager — My Video</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body class="user-page">
+  <div class="app">
+    <!-- User Header -->
+    <header class="header user-header">
+      <div class="header-left">
+        <div class="logo">
+          <div class="logo-icon">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <polygon points="23 7 16 12 23 17 23 7"></polygon>
+              <rect x="1" y="5" width="15" height="14" rx="2" ry="2"></rect>
+            </svg>
+          </div>
+          <h1>Ad Manager</h1>
+        </div>
+      </div>
+      <div class="header-right">
+        <div class="user-identity" id="userIdentity">
+          <div class="user-avatar-small" id="userAvatarSmall"></div>
+          <span id="userNameHeader">Identifying...</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- User Content -->
+    <main class="main user-main">
+      <!-- Loading State -->
+      <div class="user-state" id="loadingState">
+        <div class="upload-spinner"></div>
+        <p>Identifying your device...</p>
+      </div>
+
+      <!-- Not Registered State -->
+      <div class="user-state" id="notRegisteredState" style="display: none;">
+        <div class="state-icon state-icon-error">
+          <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"></circle>
+            <line x1="15" y1="9" x2="9" y2="15"></line>
+            <line x1="9" y1="9" x2="15" y2="15"></line>
+          </svg>
+        </div>
+        <h2>Device Not Registered</h2>
+        <p>Your IP address (<code id="myIP"></code>) is not registered.</p>
+        <p class="subtext">Ask the host to register your IP address in the dashboard.</p>
+      </div>
+
+      <!-- No Video State -->
+      <div class="user-state" id="noVideoState" style="display: none;">
+        <div class="state-icon state-icon-waiting">
+          <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"></circle>
+            <polyline points="12 6 12 12 16 14"></polyline>
+          </svg>
+        </div>
+        <h2 id="noVideoUserName">Welcome</h2>
+        <p>No ad video has been assigned to you yet.</p>
+        <p class="subtext">The host will assign a video to your account shortly.</p>
+      </div>
+
+      <!-- Video Player State -->
+      <div class="user-video-container" id="videoContainer" style="display: none;">
+        <div class="user-welcome" id="userWelcome">
+          <h2 id="videoUserName"></h2>
+          <p>Your assigned ad video</p>
+        </div>
+        <div class="video-player-wrapper">
+          <video id="userVideoPlayer" controls autoplay loop muted preload="auto">
+            <source id="videoSource" src="" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+        <div class="video-info-bar" id="videoInfoBar">
+          <span class="video-name" id="videoName"></span>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="/js/user.js"></script>
+</body>
+</html>
