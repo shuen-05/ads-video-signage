@@ -1,0 +1,82 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "name": "L 1",
+      "avatarColor": "#7c3aed",
+      "assignedVideoId": "vid_1782721899516"
+    },
+    {
+      "id": 2,
+      "name": "L 2",
+      "avatarColor": "#06b6d4",
+      "assignedVideoId": "vid_1782721905224"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "10.63.136.176",
+      "ip": "10.63.136.176",
+      "groupId": 1,
+      "avatarColor": "#fde68a"
+    },
+    {
+      "id": 2,
+      "name": "10.63.136.170",
+      "ip": "10.63.136.170",
+      "groupId": 1,
+      "avatarColor": "#a78bfa"
+    },
+    {
+      "id": 3,
+      "name": "10.63.136.101",
+      "ip": "10.63.136.101",
+      "groupId": 2,
+      "avatarColor": "#67e8f9"
+    },
+    {
+      "id": 4,
+      "name": "10.63.136.198",
+      "ip": "10.63.136.198",
+      "groupId": 2,
+      "avatarColor": "#fcd34d"
+    },
+    {
+      "id": 5,
+      "name": "10.63.136.232",
+      "ip": "10.63.136.232",
+      "groupId": 2,
+      "avatarColor": "#67e8f9"
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid_1782721899516",
+      "name": "Building a Sustainable Tomorrow\uD83D\uDC99 - Daikin Malaysia (720p, h264).mp4",
+      "fileName": "1782721899444-161363.mp4",
+      "originalName": "Building a Sustainable Tomorrow\uD83D\uDC99 - Daikin Malaysia (720p, h264).mp4",
+      "path": "/uploads/1782721899444-161363.mp4",
+      "size": 3797972,
+      "uploadedAt": "2026-06-29T08:31:39.5207701Z"
+    },
+    {
+      "id": "vid_1782721905224",
+      "name": "Creating Better Air Just For You - Daikin Malaysia - Daikin Malaysia (720p, h264).mp4",
+      "fileName": "1782721905190-524717.mp4",
+      "originalName": "Creating Better Air Just For You - Daikin Malaysia - Daikin Malaysia (720p, h264).mp4",
+      "path": "/uploads/1782721905190-524717.mp4",
+      "size": 4058916,
+      "uploadedAt": "2026-06-29T08:31:45.2249948Z"
+    },
+    {
+      "id": "vid_1782721911185",
+      "name": "Daikin SMARTO Premium R32 Inverter What makes it SMART - Daikin Malaysia (720p, h264).mp4",
+      "fileName": "1782721911094-911631.mp4",
+      "originalName": "Daikin SMARTO Premium R32 Inverter What makes it SMART - Daikin Malaysia (720p, h264).mp4",
+      "path": "/uploads/1782721911094-911631.mp4",
+      "size": 12277995,
+      "uploadedAt": "2026-06-29T08:31:51.1859242Z"
+    }
+  ]
+}
