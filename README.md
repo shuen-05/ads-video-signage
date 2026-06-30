@@ -47,7 +47,7 @@ Once the server starts (using either method), a console window will display the 
 ║       Ad Video Management UI - Server            ║
 ╠══════════════════════════════════════════════════╣
 ║  Local:    http://localhost:5000                 ║
-║  Network:  http://xxx.xxx.x.xxx:5000              ║
+║  Network:  http://xxx.xxx.x.xxx:5000             ║
 ║                                                  ║
 ║  Dashboard: http://localhost:5000/admin          ║
 ║  Users connect to the Network URL above          ║
